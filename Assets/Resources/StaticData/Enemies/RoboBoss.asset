@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83f20929bf6bd314bbcba75350787894, type: 3}
+  m_Name: RoboBoss
+  m_EditorClassIdentifier: 
+  Id: 2
+  Prefab: {fileID: 6675712203809881889, guid: fed247ef21106d446887840dc216da52, type: 3}
+  MoveSpeed: 2.5
+  MaxHealth: 500
+  ExperienceReward: 300
+  AttackType: 0
+  ExploreAttackData:
+    Damage: 0
+    SearchLayerMask:
+      serializedVersion: 2
+      m_Bits: 0
+  OverlapAttackData:
+    FireRate: 5
+    Damage: 500
+    SearchLayerMask:
+      serializedVersion: 2
+      m_Bits: 8

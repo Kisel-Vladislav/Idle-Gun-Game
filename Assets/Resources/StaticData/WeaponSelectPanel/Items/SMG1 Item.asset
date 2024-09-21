@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ca3501324dd04c47ad5b94abeec3140, type: 3}
+  m_Name: SMG1 Item
+  m_EditorClassIdentifier: 
+  Id: 30
+  Model: {fileID: 3532748923795514961, guid: 09b277675ecb91942b4f9c76bbab16ab, type: 3}
+  Sprite: {fileID: 21300000, guid: 0bb5d632983e8904fa1e17fb219c0d5a, type: 3}

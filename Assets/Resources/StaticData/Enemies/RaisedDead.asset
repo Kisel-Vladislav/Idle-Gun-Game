@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83f20929bf6bd314bbcba75350787894, type: 3}
+  m_Name: RaisedDead
+  m_EditorClassIdentifier: 
+  Id: 6
+  Prefab: {fileID: 6276240521771647800, guid: f1dd8c8740f4e6e449c0c016f36986cb, type: 3}
+  MoveSpeed: 2.5
+  MaxHealth: 80
+  ExperienceReward: 30
+  AttackType: 1
+  ExploreAttackData:
+    Damage: 20
+    SearchLayerMask:
+      serializedVersion: 2
+      m_Bits: 8
+  OverlapAttackData:
+    FireRate: 0
+    Damage: 0
+    SearchLayerMask:
+      serializedVersion: 2
+      m_Bits: 0

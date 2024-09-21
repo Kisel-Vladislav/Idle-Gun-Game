@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83f20929bf6bd314bbcba75350787894, type: 3}
+  m_Name: Scorcher
+  m_EditorClassIdentifier: 
+  Id: 7
+  Prefab: {fileID: 6246307150312302533, guid: e3346df100dfedd44810df02162d0d32, type: 3}
+  MoveSpeed: 6
+  MaxHealth: 150
+  ExperienceReward: 60
+  AttackType: 1
+  ExploreAttackData:
+    Damage: 18
+    SearchLayerMask:
+      serializedVersion: 2
+      m_Bits: 8
+  OverlapAttackData:
+    FireRate: 0
+    Damage: 0
+    SearchLayerMask:
+      serializedVersion: 2
+      m_Bits: 0

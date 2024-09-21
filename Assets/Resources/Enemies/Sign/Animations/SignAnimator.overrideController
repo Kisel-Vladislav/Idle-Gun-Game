@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SignAnimator
+  m_Controller: {fileID: 9100000, guid: ec13076473c565041a244abfae40d835, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: de23e1ff5c3017146aa709da13865e20, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 1aef29a80d8792246babcd8d1024c9bb, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: bd0b523c0650b364c8f676bfcac34d42, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: debd2b4e4ea7b0845a49ca9cffb1cedb, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 731f31be05ceb3140abac659e10f4907, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: cef4747b0fdc1d7488c6e0ee27458366, type: 3}
