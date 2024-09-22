@@ -29,6 +29,9 @@ https://github.com/user-attachments/assets/23b4333a-9783-4126-8c87-6ddb55fcedc5
 <details>
 <summary>Meta</summary>
 
+![Meta2](https://github.com/user-attachments/assets/a102de1c-1191-47bb-9608-cb5433eab02c)
+![Meta](https://github.com/user-attachments/assets/59bfe684-73c0-4d7f-aa24-d1d7c378cd3a)
+![Meta1](https://github.com/user-attachments/assets/c315db79-530c-4dbb-a364-2828118c3cbf)
 
   
 </details>
@@ -36,6 +39,9 @@ https://github.com/user-attachments/assets/23b4333a-9783-4126-8c87-6ddb55fcedc5
 <details>
 <summary>GamePlay</summary>
 
+![GamePlay1](https://github.com/user-attachments/assets/eb7ccb6c-46d8-40c4-9860-261c05cc5224)
+![GamePlay](https://github.com/user-attachments/assets/5885f565-27cf-4626-8940-e7961b661f86)
+![GamePlay3](https://github.com/user-attachments/assets/9ce80339-5412-49a8-8005-301cb6b585e1)
 
   
 </details>
