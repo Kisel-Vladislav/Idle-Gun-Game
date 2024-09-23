@@ -1,8 +1,10 @@
 # Idle-Game 💤🔫
 ## 📚 Libraries and plugins 
 
-+ DI Container - Zenject
-+ Tween - PrimeTween
++ 🗃DI Container - Zenject
++ 🎥Tween - PrimeTween
++ 🔄Substitute - NSubstitute
++ ✅Assertions - FluentAssertions
   
 ## 🎮 Demo 
 
